@@ -27,7 +27,7 @@
 			"name_color": "&d",
 			"chat_color": "&f"
 			"permissions": [
-     			   "rank.d2"
+     			  	 "rank.d2"
 			]
 		},
 		{
@@ -37,7 +37,7 @@
 			"name_color": "&6",
 			"chat_color": "&f"
 			"permissions": [
-   			     "rank.d3"
+   			    	 "rank.d3"
 			]
 		},
 		{
@@ -47,7 +47,7 @@
 			"name_color": "&e",
 			"chat_color": "&f"
 			"permissions": [
-				"rank.content"
+					"rank.content"
 			]
 		},
 		{
@@ -57,7 +57,7 @@
 			"name_color": "&e",
 			"chat_color": "&f"
 			"permissions": [
-       				 "rank.content"  
+       					 "rank.content"  
 			]
 		},
 		{
@@ -68,7 +68,7 @@
 			"chat_color": "&f",
 			"permissions": [
 				"rank.helper",
-      				  "maintenance.staff"
+				"maintenance.staff"
 			]
 		},
 		{
@@ -78,7 +78,7 @@
 			"name_color": "&e",
 			"chat_color": "&f",
 			"permissions": [
-      			  "rank.mod"
+      			  	"rank.mod"
 			]
 		},
  		{
