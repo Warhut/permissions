@@ -7,7 +7,7 @@
 			"name_color": "&f",
 			"chat_color": "&7",
 			"permissions": [
-        "maintenance.default"
+    			    "maintenance.default"
 			]
 		},
 		{
@@ -17,7 +17,7 @@
 			"name_color": "&d",
 			"chat_color": "&f",
 			"permissions": [
-        "rank.d1"
+     				   "rank.d1"
 			]
 		},
 		{
@@ -27,7 +27,7 @@
 			"name_color": "&d",
 			"chat_color": "&f"
 			"permissions": [
-        "rank.d2"
+     			   "rank.d2"
 			]
 		},
 		{
@@ -37,7 +37,7 @@
 			"name_color": "&6",
 			"chat_color": "&f"
 			"permissions": [
-        "rank.d3"
+   			     "rank.d3"
 			]
 		},
 		{
@@ -47,7 +47,7 @@
 			"name_color": "&e",
 			"chat_color": "&f"
 			"permissions": [
-        "rank.content"
+				"rank.content"
 			]
 		},
 		{
@@ -57,7 +57,7 @@
 			"name_color": "&e",
 			"chat_color": "&f"
 			"permissions": [
-        "rank.content"  
+       				 "rank.content"  
 			]
 		},
 		{
@@ -68,7 +68,7 @@
 			"chat_color": "&f",
 			"permissions": [
 				"rank.helper",
-        "maintenance.staff"
+      				  "maintenance.staff"
 			]
 		},
 		{
@@ -78,7 +78,7 @@
 			"name_color": "&e",
 			"chat_color": "&f",
 			"permissions": [
-        "rank.mod"
+      			  "rank.mod"
 			]
 		},
  		{
@@ -89,8 +89,8 @@
 			"chat_color": "&f"
 			"permissions": [
 				"rank.bt",
-        "worldedit.*",
-        "worldguard.*"
+			  	"worldedit.*",
+			   	"worldguard.*"
 			]
 		},
 		{
@@ -110,7 +110,7 @@
 			"name_color": "&c",
 			"chat_color": "&f"
 			"permissions": [
-        "rank.*",
+		 		"rank.*",
 				"bukkit.command.*",
 				"minecraft.command.*",
 				"bungeecord.command.*",
