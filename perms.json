@@ -1,0 +1,134 @@
+{
+	"ranks": [
+		{
+			"id": "default",
+			"level": 0,
+			"tag": "",
+			"name_color": "&f",
+			"chat_color": "&7",
+			"permissions": [
+        "maintenance.default"
+			]
+		},
+		{
+			"id": "d1",
+			"level": 1,
+			"tag": "&d✪ ",
+			"name_color": "&d",
+			"chat_color": "&f",
+			"permissions": [
+        "rank.d1"
+			]
+		},
+		{
+			"id": "d2",
+			"level": 2,
+			"tag": "&a✪✪ ",
+			"name_color": "&d",
+			"chat_color": "&f"
+			"permissions": [
+        "rank.d2"
+			]
+		},
+		{
+			"id": "d3",
+			"level": 3,
+			"tag": "&6✪✪✪ ",
+			"name_color": "&6",
+			"chat_color": "&f"
+			"permissions": [
+        "rank.d3"
+			]
+		},
+		{
+			"id": "youtube",
+			"level": 5,
+			"tag": "&c&lYoutube ",
+			"name_color": "&e",
+			"chat_color": "&f"
+			"permissions": [
+        "rank.content"
+			]
+		},
+		{
+			"id": "twitch",
+			"level": 6,
+			"tag": "&d&lTwitch ",
+			"name_color": "&e",
+			"chat_color": "&f"
+			"permissions": [
+        "rank.content"  
+			]
+		},
+		{
+			"id": "helper",
+			"level": 9,
+			"tag": "&2&lHELPER ",
+			"name_color": "&2",
+			"chat_color": "&f",
+			"permissions": [
+				"rank.helper",
+        "maintenance.staff"
+			]
+		},
+		{
+			"id": "mod",
+			"level": 9,
+			"tag": "&e&lMOD ",
+			"name_color": "&e",
+			"chat_color": "&f",
+			"permissions": [
+        "rank.mod"
+			]
+		},
+ 		{
+			"id": "bt",
+			"level": 10,
+			"tag": "&9&lBT ",
+			"name_color": "&9",
+			"chat_color": "&f"
+			"permissions": [
+				"rank.bt",
+        "worldedit.*",
+        "worldguard.*"
+			]
+		},
+		{
+			"id": "srmod",
+			"level": 11,
+			"tag": "&e&lSR.MOD ",
+			"name_color": "&e",
+			"chat_color": "&f",
+			"permissions": [
+				"rank.srmod"
+			]
+		},
+		{
+			"id": "Partner",
+			"level": 100,
+			"tag": "&c&lADMIN ",
+			"name_color": "&c",
+			"chat_color": "&f"
+			"permissions": [
+        "rank.*",
+				"bukkit.command.*",
+				"minecraft.command.*",
+				"bungeecord.command.*",
+			]
+		},
+		{
+			"id": "admin",
+			"level": 100,
+			"tag": "&c&lADMIN ",
+			"name_color": "&c",
+			"chat_color": "&f",
+		}
+		{
+			"id": "dev",
+			"level": 101,
+			"tag": "&c&lDEV ",
+			"name_color": "&c",
+			"chat_color": "&f",
+		}
+	]
+}
